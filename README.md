@@ -1,5 +1,5 @@
-# SimpleHtmlTemplate
-This is a simple Gulp Html Template.
+# Knight's move app
+This is app gives hint how to muve by knight in chess.
 
 To start to work with this template on yuor computer:
 (Your need to installed Node.js on your computer)
